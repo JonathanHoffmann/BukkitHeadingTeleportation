@@ -1,0 +1,10 @@
+name: HeadingTeleportation
+main: me.Jonnyfant.headingteleportation.headingteleportation
+author: Jonnyfant
+version: 1.0
+commands:
+  tph:
+    usage: /<command> <length> <angle>
+    description: Teleport in to current facing direction
+    permission: headingteleportation.teleport
+    permission-message: You do not have /<permission>
