@@ -1,7 +1,5 @@
 # BukkitHeadingTeleportation
-https://www.curseforge.com/minecraft/bukkit-plugins/headingteleportation
-
-built on forum request.
+built for a forum request.
 
 The command /tph <length> <angle> teleports you in the facing direction (+angle) by <length> blocks. The Angle is optional.
 
